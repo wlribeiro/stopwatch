@@ -1,4 +1,4 @@
 # Stopwatch
 
 
-A symple stopwatch
+A simple stopwatch
